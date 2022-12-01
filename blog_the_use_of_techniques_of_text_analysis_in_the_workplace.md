@@ -1,7 +1,7 @@
 # The Use of Techniques of Text Analysis in the Workplace
 
 ## Background
-This blog reflects my thought after completing [this project](https://github.com/Wenying-Wu/Natural-Language-Processing-Project/blob/main/%20The%20Anatomy%20Of%20An%20Unknown%20Corpus.pdf). This project is about utilizing text analysis techniques to analyze unstructured data (text) in 42 text documents, aiming at providing insights and figuring out hidden themes in these documents.
+This blog reflects my thought after completing [this project](https://github.com/Wenying-Wu/Natural-Language-Processing-Project/blob/main/%20report_the_anatomy_of_an_unknown_corpus.pdf). This project is about utilizing text analysis techniques to analyze unstructured data (text) in 42 text documents, aiming at providing insights and figuring out hidden themes in these documents.
 
 The steps of text analysis I performed are summarized below to show the foundation of later reflection:
 1.	**Data preparation** – Remove punctuation, stop words and numbers, stemming etc.
